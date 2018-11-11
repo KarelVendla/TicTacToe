@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="enter_name">Enter name</string>
+    <string name="contin">Continue</string>
+    <string name="Player1">Player</string>
+    <string name="Reset">REset</string>
+    <string name="hos">Hall of Scores</string>
+</resources>
